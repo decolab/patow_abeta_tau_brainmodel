@@ -1,0 +1,22 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "AbTau_Brainmodel",
+  "description": "This software implements a whole-brain dynamic model to simulate the effects of amyloid-beta and tau protein accumulation on the excitation-inhibition balance in Alzheimer’s disease. By fitting the model to regional pathology data, it captures large-scale neuronal dynamics across disease stages, revealing a shift from amyloid-beta dominance in early stages (MCI) to tau dominance in later stages (AD). The tool enables in silico exploration of protein-specific impacts on brain function and supports research into biomarker discovery and potential therapeutic targets.",
+  "codeRepository": "https://github.com/dagush/WholeBrain/tree/master/Projects/AD-ABeta_and_Tau",
+  "dateCreated": "2023-12-05",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "amyloid beta",
+    "tau protein",
+    "excitation/inhibition balance",
+    "whole-brain model"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "Python"
+    }
+  ]
+}
