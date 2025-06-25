@@ -4,9 +4,9 @@
 
 This repository contains the source code used in the study:
 
-> Patow, G., Stefanovski, L., Ritter, P., Deco, G., Kobeleva, X., & for the Alzheimer’s Disease Neuroimaging Initiative. (2023).  
-> *Whole-brain modeling of the differential influences of Amyloid-Beta and Tau in Alzheimer’s Disease*.  
-> Accepted at *Alzheimer’s Research & Therapy*.
+> Patow, G., Stefanovski, L., Ritter, P. et al. (2023).  
+> *Whole-brain modeling of the differential influences of amyloid-beta and tau in Alzheimer’s disease*.  
+> *Alzheimer’s Research & Therapy*, 15, 210. https://doi.org/10.1186/s13195-023-01349-9
 
 The study uses whole-brain computational modeling to investigate the distinct contributions of Amyloid-Beta (Aβ) and Tau pathology to altered brain dynamics in Alzheimer's disease. Simulations integrate empirical fMRI and diffusion MRI data, and use a Hopf oscillator framework to assess the network-level impact of protein accumulation.
 
@@ -70,9 +70,9 @@ If the AT(N) classification should be used, first run classific_AT(N).py, and th
 
 If you use this code, please cite:
 
-Patow, G., Stefanovski, L., Ritter, P., Deco, G., Kobeleva, X., & for the Alzheimer’s Disease Neuroimaging Initiative. (2023).  
-*Whole-brain modeling of the differential influences of Amyloid-Beta and Tau in Alzheimer’s Disease*.  
-*Alzheimer’s Research & Therapy*. Accepted for publication.
+Patow, G., Stefanovski, L., Ritter, P. et al. (2023).  
+*Whole-brain modeling of the differential influences of amyloid-beta and tau in Alzheimer’s disease*.  
+*Alzheimer’s Research & Therapy*, 15, 210. https://doi.org/10.1186/s13195-023-01349-9
 
 ---
 
@@ -87,5 +87,5 @@ This project is released under the MIT License.
 
 For questions or support, please contact:  
 **Gustavo Patow**  
-📧 [gustavo.patow@upf.edu](mailto:gustavo.patow@upf.edu)  
+[gustavo.patow@upf.edu](mailto:gustavo.patow@upf.edu)  
 CNS Department, University Pompeu Fabra
