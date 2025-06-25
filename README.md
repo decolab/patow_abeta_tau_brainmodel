@@ -40,7 +40,7 @@ The study uses whole-brain computational modeling to investigate the distinct co
 
 - Python 3.x
 - Numpy, Matplotlib, Nibabel, and other scientific libraries
-- Empirical imaging data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI)
+- Empirical resting-state fMRI data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI)
 - Preprocessed structural connectomes and burden maps
 
 ---
@@ -78,8 +78,12 @@ Patow, G., Stefanovski, L., Ritter, P. et al. (2023).
 
 ## License
 
-This project is released under the MIT License.  
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0).  
+You are free to share and adapt the material for non-commercial purposes, provided appropriate credit is given and changes are indicated.  
+For full details, see the [license deed](https://creativecommons.org/licenses/by-nc/4.0/) and the [legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
 © 2023 Gustavo Patow
+
 
 ---
 
