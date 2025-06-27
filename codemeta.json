@@ -2,16 +2,7 @@
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
   "name": "AbTau_Brainmodel",
-  "description": "This repository provides the Python implementation of a whole-brain computational modeling framework\n"
-    "developed to study the differential influence of amyloid-beta (Aβ) and tau protein accumulation in Alzheimer’s disease (AD).\n"
-    "The model integrates subject-specific structural connectomes, resting-state fMRI, and PET-derived biomarker maps from the ADNI cohort\n"
-    "to simulate altered brain dynamics using a Hopf oscillator model.\n\n"
-    "The computational pipeline supports parameter optimization, group-level comparisons across diagnostic categories,\n"
-    "and biomarker-based classification using the AT(N) framework.\n"
-    "It allows researchers to investigate the specific contributions of Aβ and tau to functional reactivity, network integrity,\n"
-    "and disease progression, supporting mechanistic insights into AD pathology and potential neurostimulation targets.\n\n"
-    "For methodology, input structure, and usage instructions, see the full README file:\n"
-    "[README.md](https://github.com/decolab/AD_tau_Amyloid_modeling/blob/main/README.md) (https://github.com/decolab/AD_tau_Amyloid_modeling/blob/main/README.md)",
+  "description": "This repository provides the Python implementation of a whole-brain computational modeling framework\ndeveloped to study the differential influence of amyloid-beta (Aβ) and tau protein accumulation in Alzheimer’s disease (AD).\nThe model integrates subject-specific structural connectomes, resting-state fMRI, and PET-derived biomarker maps from the ADNI cohort\nto simulate altered brain dynamics using a Hopf oscillator model.\n\nThe computational pipeline supports parameter optimization, group-level comparisons across diagnostic categories,\nand biomarker-based classification using the AT(N) framework.\nIt allows researchers to investigate the specific contributions of Aβ and tau to functional reactivity, network integrity,\nand disease progression, supporting mechanistic insights into AD pathology and potential neurostimulation targets.\n\nFor methodology, input structure, and usage instructions, see the full README file:\n[README.md](https://github.com/decolab/AD_tau_Amyloid_modeling/blob/main/README.md) (https://github.com/decolab/AD_tau_Amyloid_modeling/blob/main/README.md)",
   "codeRepository": "https://github.com/decolab/patow_abeta_tau_brainmodel",
   "downloadUrl": "https://github.com/decolab/patow_abeta_tau_brainmodel/releases/tag/v1.0.0",
   "dateCreated": "2023-12-05",
